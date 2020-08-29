@@ -21,4 +21,4 @@ Pandas provides high-level data structures and functions designed to make workin
 matplotlib is the most popular Python library for producing plots and other twodimensional data visualizations. It is designed for creating plots suitable for publication. While there are other visualization libraries available to Python programmers, matplotlib is the most widely used and as such has generally good integration with the rest of the ecosystem. I think it is a safe choice as a default visualization tool.
 
 ### SciPy:
-SciPy is a collection of packages addressing a number of different standard problem domains in scientific computing
+SciPy is a collection of packages addressing a number of different standard problem domains in scientific computing.
