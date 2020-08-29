@@ -22,3 +22,32 @@ matplotlib is the most popular Python library for producing plots and other twod
 
 ### SciPy:
 SciPy is a collection of packages addressing a number of different standard problem domains in scientific computing.
+
+## Python Interpreter:
+Python is an interpreted language. The Python interpreter runs a program by executing one statement at a time. The standard interactive Python interpreter can be invoked on the command line with the python command.
+
+## Running the Jupyter Notebook:
+One of the major components of the Jupyter project is the notebook, a type of interactive document for code, text (with or without markup), data visualizations, and other output. The Jupyter notebook interacts with kernels, which are implementations of the Jupyter interactive computing protocol in any number of programming languages.
+Python’s Jupyter kernel uses the IPython system for its underlying behavior.
+
+### Interrupting running code:
+Pressing Ctrl-C while any code is running, whether a script through %run or a long running command, will cause a KeyboardInterrupt to be raised. This will cause nearly all Python programs to stop immediately except in certain unusual cases.
+
+## Python Language Basics:
+
+### Language Semantics
+The Python language design is distinguished by its emphasis on readability, simplicity, and explicitness. Some people go so far as to liken it to “executable pseudocode.”
+
+### Indentation, not braces
+Python uses whitespace (tabs or spaces) to structure code instead of using braces as in many other languages like R, C++, Java, and Perl. Consider a for loop from a sorting
+algorithm.
+
+### Everything is an object
+An important characteristic of the Python language is the consistency of its object model. Every number, string, data structure, function, class, module, and so on exists
+in the Python interpreter in its own “box,” which is referred to as a Python object.
+
+### Comments
+Any text preceded by the hash mark (pound sign) # is ignored by the Python interpreter. This is often used to add comments to code.
+
+### Duck typing
+Often you may not care about the type of an object but rather only whether it has certain methods or behavior. This is sometimes called “duck typing,”
