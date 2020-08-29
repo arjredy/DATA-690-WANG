@@ -35,19 +35,19 @@ Pressing Ctrl-C while any code is running, whether a script through %run or a lo
 
 ## Python Language Basics:
 
-### Language Semantics
+### Language Semantics:
 The Python language design is distinguished by its emphasis on readability, simplicity, and explicitness. Some people go so far as to liken it to “executable pseudocode.”
 
-### Indentation, not braces
+### Indentation, not braces:
 Python uses whitespace (tabs or spaces) to structure code instead of using braces as in many other languages like R, C++, Java, and Perl. Consider a for loop from a sorting
 algorithm.
 
-### Everything is an object
+### Everything is an object:
 An important characteristic of the Python language is the consistency of its object model. Every number, string, data structure, function, class, module, and so on exists
 in the Python interpreter in its own “box,” which is referred to as a Python object.
 
-### Comments
+### Comments:
 Any text preceded by the hash mark (pound sign) # is ignored by the Python interpreter. This is often used to add comments to code.
 
-### Duck typing
+### Duck typing:
 Often you may not care about the type of an object but rather only whether it has certain methods or behavior. This is sometimes called “duck typing,”
