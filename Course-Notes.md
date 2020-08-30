@@ -50,4 +50,4 @@ in the Python interpreter in its own “box,” which is referred to as a Python
 Any text preceded by the hash mark (pound sign) # is ignored by the Python interpreter. This is often used to add comments to code.
 
 ### Duck typing:
-Often you may not care about the type of an object but rather only whether it has certain methods or behavior. This is sometimes called “duck typing,”
+Often you may not care about the type of an object but rather only whether it has certain methods or behavior. This is sometimes called “duck typing”
