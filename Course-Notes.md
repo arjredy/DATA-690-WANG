@@ -10,6 +10,10 @@
 - Evenly or unevenly spaced time series.
 
 ## Essential Python Libraries:
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
 
 ### NumPy:
 NumPy, short for Numerical Python, has long been a cornerstone of numerical computing in Python. It provides the data structures, algorithms, and library glue needed for most scientific applications involving numerical data in Python.
